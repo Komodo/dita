@@ -10,6 +10,7 @@
 		<em:unpack>true</em:unpack>
 		<em:description>Support for autocompletion in DITA files</em:description>
 		<em:creator>Troy Topnik</em:creator>
+		<em:contributor>Todd Whiteman</em:contributor>
         <!-- Leave empty to use the default Komodo settings -->
 		<em:homepageURL></em:homepageURL>
 		<em:updateURL></em:updateURL>
